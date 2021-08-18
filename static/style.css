@@ -1,0 +1,14 @@
+
+
+.form-control {
+    display: inline;
+}
+.btn {
+    background-color: #373252;
+    color: white;
+    box-shadow: 0 0 1vw rgba(0, 0, 0, 0.5);
+}
+.col-6 {
+    margin-right: 15%;
+}
+
